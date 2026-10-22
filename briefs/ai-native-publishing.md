@@ -1,7 +1,6 @@
 # AI-Native Publishing
 
-**Live:** [DigitalExpo.ai](https://digitalexpo.ai) — see a 900+ page living book at
-[digitalexpo.ai/wdyd](https://digitalexpo.ai/wdyd)
+**Live:** [DigitalExpo.ai](https://digitalexpo.ai)
 
 ## The thesis
 
