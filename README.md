@@ -11,6 +11,7 @@ repository — the systems themselves are live and linked from each brief.
 | [Governed agents in production](briefs/governed-agents-in-production.md) | Fleet-wide agent safety architecture |
 | [Healthcare reference architecture](briefs/healthcare-reference-architecture.md) | [EMRArchitect.com](https://emrarchitect.com) |
 | [AI-native publishing](briefs/ai-native-publishing.md) | [DigitalExpo.ai](https://digitalexpo.ai) |
+| [Real-time duel & ephemeral credentials](briefs/realtime-duel-and-ephemeral-credentials.md) | [F2 Combat](https://personaltraining.ai/f2combat/) · [code](https://github.com/thejavaarchitect/f2-combat) |
 | [One-operator fleet operations](briefs/fleet-operations.md) | 40+ production sites |
 
 © Al Smith. Shared for portfolio review; all rights reserved.
